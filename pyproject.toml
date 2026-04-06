@@ -9,8 +9,6 @@ dependencies = [
     "uvicorn[standard]",
     "pytest",
     "ntplib",
-    "httpx",
-    "dateparser",
 ]
 
 [tool.setuptools]
